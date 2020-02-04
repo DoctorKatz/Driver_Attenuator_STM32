@@ -1,0 +1,84 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks>
+  <BookmarkItem objectName="" line="537" column="0" path="C:/Users/n.kats/OneDrive/Desktop/Power_driver_ATTENUATOR_STM32/Src/main.c" number="2" extra="void StartParsing(void const * argument)" color="5"/>
+  <BookmarkItem objectName="" line="148" column="0" path="C:/Users/n.kats/OneDrive/Desktop/Power_driver_ATTENUATOR_STM32/Src/main.c" number="1" extra="/* definition and creation of SlaveTransmitQueue */" color="5"/>
+ </Bookmarks>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="176" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../Src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="470" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../Src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="495" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../Src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="515" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../Src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="357" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="Power_driver" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="Power_driver" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="Power_driver" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="Power_driver" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="Power_driver"/>
+  <ProjectSessionItem path="Power_driver;Power_driver"/>
+  <ProjectSessionItem path="Power_driver;Power_driver;Application/User"/>
+  <ProjectSessionItem path="Power_driver;Power_driver;Drivers/STM32F3xx_HAL_Driver"/>
+  <ProjectSessionItem path="Power_driver;Power_driver;Middlewares/FreeRTOS"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Power_driver" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Power_driver" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Power_driver" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="Power_driver" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never">
+   <Watchpoint expression="xHostDataSlave" name="xHostDataSlave" radix="16" linenumber="0" filename="../MDK-ARM"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="402" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/main.c" selected="1" top="442" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="91" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/drivers.c" selected="0" top="91" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="154" useTextEdit="1" useBinaryEdit="0" left="0" path="../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash.h" selected="0" top="136" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="183" useTextEdit="1" useBinaryEdit="0" left="0" path="../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_flash.c" selected="0" top="175" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="164" useTextEdit="1" useBinaryEdit="0" left="0" path="../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c" selected="0" top="149" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="82" useTextEdit="1" useBinaryEdit="0" left="0" path="../Src/stm32f3xx_hal_timebase_tim.c" selected="0" top="57" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="357" useTextEdit="1" useBinaryEdit="0" left="0" path="../Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c" selected="0" top="357" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="194" useTextEdit="1" useBinaryEdit="0" left="0" path="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c" selected="0" top="175" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="HUD {8cc510b6-349f-4124-9856-57ea416fe607} Right" x="0" y="17" useTextEdit="1" useBinaryEdit="0" left="0" path="../Inc/drivers.h" selected="0" top="0" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="HUD {8cc510b6-349f-4124-9856-57ea416fe607} Right" x="0" y="34" useTextEdit="1" useBinaryEdit="0" left="0" path="../Inc/main.h" selected="0" top="0" codecName="CP 1251"/>
+  <SessionOpenFile windowGroup="HUD {8cc510b6-349f-4124-9856-57ea416fe607} Right" x="0" y="205" useTextEdit="1" useBinaryEdit="0" left="0" path="../Inc/stm32f3xx_hal_conf.h" selected="0" top="180" codecName="CP 1251"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="Power_driver" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Power_driver External" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="H:/Project_firmware/CNTRL_BOARD_V3/Contrl_Board_V3.1/Inc" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
