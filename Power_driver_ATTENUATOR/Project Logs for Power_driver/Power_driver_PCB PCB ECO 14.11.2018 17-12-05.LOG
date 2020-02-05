@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=X3 Old Footprint=4_PIN_HEADER_FLOCK_254 New Footprint=53261-0471
+Change Component Comment : Designator=X3 Old Comment=22-27-2041 New Comment=53261-0471
+Change component parameters: Designator = "X3"; Footprint = "53261-0471"; UniqueID = "\CXWWLUHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designer"; Value = "Martynov"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Connector_PIN\53261-0xxx.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Connector_PIN\532610471.step"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "10.04.2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "53261-0471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueBOM"; Value = "53261-0471"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueSCH"; Value = "53261-0471"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X3-5
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component X3 53261-0471
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component X4 87832-1420

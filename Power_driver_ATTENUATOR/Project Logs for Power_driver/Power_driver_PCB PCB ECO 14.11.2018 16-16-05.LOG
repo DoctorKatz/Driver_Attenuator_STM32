@@ -1,0 +1,863 @@
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+5V Pin=C24-2
+Removed Pin From Net: NetName=+5V Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=+6V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=+5V Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=+5V Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=+5V Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Pin From Net: NetName=+5V Pin=DA3-9
+Removed Pin From Net: NetName=GND Pin=DA3-11
+Removed Pin From Net: NetName=GND Pin=DA3-12
+Removed Pin From Net: NetName=GND Pin=DA3-20
+Removed Pin From Net: NetName=GND Pin=DA3-21
+Removed Pin From Net: NetName=CS Pin=DA4-4
+Removed Pin From Net: NetName=CS_IN Pin=DD1-2
+Removed Pin From Net: NetName=SCLK_IN Pin=DD2-2
+Removed Pin From Net: NetName=DIN_IN Pin=DD3-2
+Removed Pin From Net: NetName=GND Pin=DD4-3
+Removed Pin From Net: NetName=CS Pin=DD4-4
+Removed Pin From Net: NetName=+5V Pin=DD4-5
+Removed Pin From Net: NetName=GND Pin=DD5-3
+Removed Pin From Net: NetName=+5V Pin=DD5-5
+Removed Pin From Net: NetName=GND Pin=DD6-3
+Removed Pin From Net: NetName=+5V Pin=DD6-5
+Removed Pin From Net: NetName=+5V Pin=L8-1
+Removed Pin From Net: NetName=+6V Pin=L9-2
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=CS Pin=R32-2
+Removed Pin From Net: NetName=SCLK_IN Pin=XP1-A7
+Removed Pin From Net: NetName=DIN_IN Pin=XP1-A9
+Removed Member From Class: ClassName=Power_driver_power Member=C24
+Removed Member From Class: ClassName=Power_driver_power Member=C25
+Removed Member From Class: ClassName=Power_driver_power Member=C26
+Removed Member From Class: ClassName=Power_driver_power Member=C27
+Removed Member From Class: ClassName=Power_driver_power Member=C28
+Removed Member From Class: ClassName=Power_driver_power Member=C29
+Removed Member From Class: ClassName=Power_driver_power Member=C30
+Removed Member From Class: ClassName=Power_driver_power Member=C31
+Removed Member From Class: ClassName=Power_driver_power Member=C32
+Removed Member From Class: ClassName=Power_driver_power Member=C33
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=C42
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=C43
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=C44
+Removed Member From Class: ClassName=Power_driver_power Member=DA3
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=DD4
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=DD5
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=DD6
+Removed Member From Class: ClassName=Power_driver_power Member=L8
+Removed Member From Class: ClassName=Power_driver_power Member=L9
+Removed Member From Class: ClassName=Power_driver_power Member=R24
+Removed Member From Class: ClassName=Power_driver_power Member=R25
+Removed Member From Class: ClassName=Power_driver_power Member=R26
+Removed Member From Class: ClassName=Power_driver_power Member=R27
+Removed Member From Class: ClassName=Power_driver_power Member=R28
+Change Component Footprint: Designator=C33 Old Footprint=B_CAPMP3528X21N New Footprint=C0603_CAPC1608X09N
+Change Component Footprint: Designator=DD4 Old Footprint=SC70_SOT65P210X110-5N New Footprint=LQFP64_TSQFP50P1200X1200X160-64L
+Change Component Comment : Designator=C33 Old Comment=22u 20V New Comment=5 50V
+Change Component Comment : Designator=DD4 Old Comment=SN74LVC1G07DCK New Comment=STM32F373RCT6
+Change Component Designator: OldDesignator=C1 NewDesignator=C10
+Change Component Designator: OldDesignator=C2 NewDesignator=C11
+Change Component Designator: OldDesignator=C3 NewDesignator=C12
+Change Component Designator: OldDesignator=C4 NewDesignator=C13
+Change Component Designator: OldDesignator=C5 NewDesignator=C14
+Change Component Designator: OldDesignator=C6 NewDesignator=C15
+Change Component Designator: OldDesignator=C7 NewDesignator=C16
+Change Component Designator: OldDesignator=C8 NewDesignator=C17
+Change Component Designator: OldDesignator=C9 NewDesignator=C18
+Change Component Designator: OldDesignator=C10 NewDesignator=C19
+Change Component Designator: OldDesignator=C11 NewDesignator=C20
+Change Component Designator: OldDesignator=C12 NewDesignator=C21
+Change Component Designator: OldDesignator=C13 NewDesignator=C22
+Change Component Designator: OldDesignator=C14 NewDesignator=C23
+Change Component Designator: OldDesignator=C15 NewDesignator=C1
+Change Component Designator: OldDesignator=C16 NewDesignator=C2
+Change Component Designator: OldDesignator=C17 NewDesignator=C3
+Change Component Designator: OldDesignator=C18 NewDesignator=C4
+Change Component Designator: OldDesignator=C19 NewDesignator=C5
+Change Component Designator: OldDesignator=C20 NewDesignator=C6
+Change Component Designator: OldDesignator=C21 NewDesignator=C7
+Change Component Designator: OldDesignator=C22 NewDesignator=C8
+Change Component Designator: OldDesignator=C23 NewDesignator=C9
+Change Component Designator: OldDesignator=C34 NewDesignator=C24
+Change Component Designator: OldDesignator=C35 NewDesignator=C26
+Change Component Designator: OldDesignator=C36 NewDesignator=C27
+Change Component Designator: OldDesignator=C37 NewDesignator=C28
+Change Component Designator: OldDesignator=C38 NewDesignator=C29
+Change Component Designator: OldDesignator=C39 NewDesignator=C30
+Change Component Designator: OldDesignator=C40 NewDesignator=C31
+Change Component Designator: OldDesignator=C41 NewDesignator=C32
+Change Component Designator: OldDesignator=DA1 NewDesignator=DA2
+Change Component Designator: OldDesignator=DA2 NewDesignator=DA3
+Change Component Designator: OldDesignator=L1 NewDesignator=L4
+Change Component Designator: OldDesignator=L2 NewDesignator=L5
+Change Component Designator: OldDesignator=L3 NewDesignator=L6
+Change Component Designator: OldDesignator=L4 NewDesignator=L7
+Change Component Designator: OldDesignator=L5 NewDesignator=L1
+Change Component Designator: OldDesignator=L6 NewDesignator=L2
+Change Component Designator: OldDesignator=L7 NewDesignator=L3
+Change Component Designator: OldDesignator=R1 NewDesignator=R20
+Change Component Designator: OldDesignator=R2 NewDesignator=R21
+Change Component Designator: OldDesignator=R3 NewDesignator=R22
+Change Component Designator: OldDesignator=R4 NewDesignator=R23
+Change Component Designator: OldDesignator=R5 NewDesignator=R24
+Change Component Designator: OldDesignator=R6 NewDesignator=R25
+Change Component Designator: OldDesignator=R7 NewDesignator=R26
+Change Component Designator: OldDesignator=R8 NewDesignator=R27
+Change Component Designator: OldDesignator=R9 NewDesignator=R28
+Change Component Designator: OldDesignator=R10 NewDesignator=R29
+Change Component Designator: OldDesignator=R11 NewDesignator=R30
+Change Component Designator: OldDesignator=R12 NewDesignator=R31
+Change Component Designator: OldDesignator=R13 NewDesignator=R32
+Change Component Designator: OldDesignator=R14 NewDesignator=R33
+Change Component Designator: OldDesignator=R15 NewDesignator=R34
+Change Component Designator: OldDesignator=R16 NewDesignator=R35
+Change Component Designator: OldDesignator=R17 NewDesignator=R1
+Change Component Designator: OldDesignator=R18 NewDesignator=R2
+Change Component Designator: OldDesignator=R19 NewDesignator=R3
+Change Component Designator: OldDesignator=R20 NewDesignator=R4
+Change Component Designator: OldDesignator=R21 NewDesignator=R7
+Change Component Designator: OldDesignator=R22 NewDesignator=R5
+Change Component Designator: OldDesignator=R23 NewDesignator=R6
+Change Component Designator: OldDesignator=R29 NewDesignator=R36
+Change Component Designator: OldDesignator=R30 NewDesignator=R37
+Change Component Designator: OldDesignator=R31 NewDesignator=R38
+Change Component Designator: OldDesignator=R32 NewDesignator=R39
+Change Component Designator: OldDesignator=R33 NewDesignator=R40
+Change Component Designator: OldDesignator=R34 NewDesignator=R41
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD11
+Change component parameters: Designator = "R39"; Footprint = "R0603_RESC1608X06N"; UniqueID = "\YFLOPDCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "R0603_RESC1608X06N"; UniqueID = "\RXGVOIUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "R0603_RESC1608X06N"; UniqueID = "\ALQXBRCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33"; Footprint = "C0603_CAPC1608X09N"; UniqueID = "\GRNXLUES"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GP_NP0_16V-to-50V_14.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Modify"; Value = "19.08.2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CC0603CRNPO9BN5R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueBOM"; Value = "5ïÔ ±0,25ïÔ 50Â NP0 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueSCH"; Value = "5 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD4"; Footprint = "LQFP64_TSQFP50P1200X1200X160-64L"; UniqueID = "\XPWGOANK"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=BQ1(Crystal_50x32x110)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Crystal\GEYER-KX-9A_Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Geyer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Crystal\Crystal_smd_52x34x1.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "24.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KX-9A 8.0 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "KX-9A 8.0 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "8MHz 16pF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GP_NP0_16V-to-50V_14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "19.08.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603CRNPO9BN5R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "5ïÔ ±0,25ïÔ 50Â NP0 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "5 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,1ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,1u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,1ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,1u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "1ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "1u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,01ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,01u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,01ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,01u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,01ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,01u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(C0603_CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Capacitor\UPY-GPHC_X7R_6.3V-to-50V_13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Capacitor\C0603_CAPC1608X09.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "0,1ìêÔ ±10% 50Â X7R 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "0,1u 50V"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOIC127P740X110-16N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603FR-073K32L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "3,32êÎì 1% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "3,32k 1%"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "100Îì 5% 75Â 200ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "100 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0603_RESC1608X06N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Resistor\YAGEO\Lead free chip resistors RC_P.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Resistor\R0603_RESC1005X04.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "28.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "10êÎì 5% 75Â 150ppm 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "10k 5%"; VariantName = "[No Variations]"
+Added Component: Designator=SA1(GDH08S04-N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Dudarev"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Switch\NG_CD_1571983_C4-652124.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE CONNECTIVITY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Switch\c-1571983-10-b-3d.step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "09.06.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GDH08S04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "GDH08S04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "GDH08S04"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(SOD523_SODFL160X65-2N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Pashinskiy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EOL"; Value = "NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "Z:\LIB\ALTIUM\INFO\Suppressor\PESDXS1UB_SERIES.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelIBIS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSPICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelSTEP"; Value = "Z:\LIB\ALTIUM\MODEL\STEP\Suppressor\SOD523.Step"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Modify"; Value = "23.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Staff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueBOM"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueSCH"; Value = "PESD3V3S1UB,115"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BQ1-2
+Added Pin To Net: NetName=GND Pin=BQ1-4
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=+3V3 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=+3V3 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=+3V3 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=+3V3 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=+3V3 Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+3V3 Pin=C42-2
+Added Pin To Net: NetName=+3,3V Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=CS_IN Pin=DA1-5
+Added Pin To Net: NetName=CS Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA1-8
+Added Pin To Net: NetName=+3V3 Pin=DD4-1
+Added Pin To Net: NetName=GND Pin=DD4-12
+Added Pin To Net: NetName=+3V3 Pin=DD4-13
+Added Pin To Net: NetName=+3V3 Pin=DD4-19
+Added Pin To Net: NetName=CS Pin=DD4-20
+Added Pin To Net: NetName=GND Pin=DD4-31
+Added Pin To Net: NetName=GND Pin=DD4-32
+Added Pin To Net: NetName=GND Pin=DD4-63
+Added Pin To Net: NetName=+3V3 Pin=DD4-64
+Added Pin To Net: NetName=+3,3V Pin=R8-1
+Added Pin To Net: NetName=+3,3V Pin=R9-1
+Added Pin To Net: NetName=+3,3V Pin=R10-1
+Added Pin To Net: NetName=+3,3V Pin=R11-1
+Added Pin To Net: NetName=+3,3V Pin=R12-1
+Added Pin To Net: NetName=+3,3V Pin=R13-1
+Added Pin To Net: NetName=+3,3V Pin=R14-1
+Added Pin To Net: NetName=+3,3V Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=+3,3V Pin=R17-1
+Added Pin To Net: NetName=+3,3V Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=+3V3 Pin=SA1-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD6-2
+Added Pin To Net: NetName=GND Pin=VD7-2
+Added Pin To Net: NetName=GND Pin=VD8-2
+Added Pin To Net: NetName=GND Pin=XP1-A12
+Added Pin To Net: NetName=GND Pin=XP1-A15
+Added Pin To Net: NetName=GND Pin=XP1-A18
+Added Pin To Net: NetName=GND Pin=XP1-B12
+Added Pin To Net: NetName=GND Pin=XP1-B15
+Added Pin To Net: NetName=GND Pin=XP1-B18
+Change Net Name : Old Net Name=NetDA1_1 New Net Name=NetDA2_1
+Change Net Name : Old Net Name=NetDA1_2 New Net Name=NetDA2_2
+Change Net Name : Old Net Name=NetDA1_4 New Net Name=NetDA2_4
+Change Net Name : Old Net Name=NetDA1_5 New Net Name=NetDA2_5
+Change Net Name : Old Net Name=NetDA2_1 New Net Name=NetDA3_1
+Change Net Name : Old Net Name=NetDA2_2 New Net Name=NetDA3_2
+Change Net Name : Old Net Name=NetDA2_4 New Net Name=NetDA3_4
+Change Net Name : Old Net Name=NetDA2_5 New Net Name=NetDA3_5
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR7_2
+Added Pin To Net: NetName=5V_CS2 Pin=DA4-4
+Added Pin To Net: NetName=5V_CS2 Pin=DD1-4
+Added Pin To Net: NetName=5V_CS2 Pin=R39-2
+Added Net: Name=5V_CS2
+Added Pin To Net: NetName=5V_DIN Pin=DA4-6
+Added Pin To Net: NetName=5V_DIN Pin=DD3-4
+Added Pin To Net: NetName=5V_DIN Pin=R41-2
+Added Net: Name=5V_DIN
+Added Pin To Net: NetName=5V_SCLK Pin=DA4-5
+Added Pin To Net: NetName=5V_SCLK Pin=DD2-4
+Added Pin To Net: NetName=5V_SCLK Pin=R40-2
+Added Net: Name=5V_SCLK
+Added Pin To Net: NetName=CLK2 Pin=DD2-2
+Added Pin To Net: NetName=CLK2 Pin=DD4-41
+Added Net: Name=CLK2
+Added Pin To Net: NetName=CLK_IN Pin=DA1-3
+Added Pin To Net: NetName=CLK_IN Pin=XP1-A7
+Added Net: Name=CLK_IN
+Added Pin To Net: NetName=CLK Pin=DA1-3
+Added Pin To Net: NetName=CLK Pin=DD4-21
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS2 Pin=DD1-2
+Added Pin To Net: NetName=CS2 Pin=DD4-44
+Added Net: Name=CS2
+Added Pin To Net: NetName=JTAG_RST Pin=DD4-56
+Added Pin To Net: NetName=JTAG_RST Pin=R15-2
+Added Pin To Net: NetName=JTAG_RST Pin=R16-2
+Added Pin To Net: NetName=JTAG_RST Pin=VD8-1
+Added Net: Name=JTAG_RST
+Added Pin To Net: NetName=JTAG_TCK Pin=DD4-49
+Added Pin To Net: NetName=JTAG_TCK Pin=R12-2
+Added Pin To Net: NetName=JTAG_TCK Pin=VD5-1
+Added Net: Name=JTAG_TCK
+Added Pin To Net: NetName=JTAG_TDI Pin=DD4-50
+Added Pin To Net: NetName=JTAG_TDI Pin=R13-2
+Added Pin To Net: NetName=JTAG_TDI Pin=VD6-1
+Added Net: Name=JTAG_TDI
+Added Pin To Net: NetName=JTAG_TDO Pin=DD4-55
+Added Pin To Net: NetName=JTAG_TDO Pin=R14-2
+Added Pin To Net: NetName=JTAG_TDO Pin=VD7-1
+Added Net: Name=JTAG_TDO
+Added Pin To Net: NetName=JTAG_TMS Pin=DD4-46
+Added Pin To Net: NetName=JTAG_TMS Pin=R11-2
+Added Pin To Net: NetName=JTAG_TMS Pin=VD4-1
+Added Net: Name=JTAG_TMS
+Added Pin To Net: NetName=MISO2 Pin=DD4-42
+Added Net: Name=MISO2
+Added Pin To Net: NetName=MISO_IN Pin=DA1-4
+Added Pin To Net: NetName=MISO_IN Pin=XP1-A8
+Added Net: Name=MISO_IN
+Added Pin To Net: NetName=MISO Pin=DA1-4
+Added Pin To Net: NetName=MISO Pin=DD4-22
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI2 Pin=DD3-2
+Added Pin To Net: NetName=MOSI2 Pin=DD4-43
+Added Net: Name=MOSI2
+Added Pin To Net: NetName=MOSI_IN Pin=DA1-6
+Added Pin To Net: NetName=MOSI_IN Pin=XP1-A9
+Added Net: Name=MOSI_IN
+Added Pin To Net: NetName=MOSI Pin=DA1-6
+Added Pin To Net: NetName=MOSI Pin=DD4-23
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetBQ1_1 Pin=BQ1-1
+Added Pin To Net: NetName=NetBQ1_1 Pin=C34-2
+Added Pin To Net: NetName=NetBQ1_1 Pin=DD4-6
+Added Net: Name=NetBQ1_1
+Added Pin To Net: NetName=NetBQ1_3 Pin=BQ1-3
+Added Pin To Net: NetName=NetBQ1_3 Pin=C33-2
+Added Pin To Net: NetName=NetBQ1_3 Pin=DD4-5
+Added Net: Name=NetBQ1_3
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=DA4-7
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=R42-1
+Added Pin To Net: NetName=NetC35_1 Pin=SA1-2
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=DD4-17
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R8-2
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetDD4_60 Pin=DD4-60
+Added Pin To Net: NetName=NetDD4_60 Pin=R42-2
+Added Pin To Net: NetName=NetDD4_60 Pin=R43-2
+Added Net: Name=NetDD4_60
+Added Pin To Net: NetName=RESET Pin=DD4-7
+Added Pin To Net: NetName=RESET Pin=R18-2
+Added Pin To Net: NetName=RESET Pin=R19-2
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCL Pin=DD4-58
+Added Pin To Net: NetName=SCL Pin=R9-2
+Added Pin To Net: NetName=SCL Pin=VD2-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=DD4-59
+Added Pin To Net: NetName=SDA Pin=R10-2
+Added Pin To Net: NetName=SDA Pin=VD3-1
+Added Net: Name=SDA
+Added Class: Name=Power_driver_MCU
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C25 0,1u 50V
+Added Member To Class: ClassName=Power_driver_power Member=Component DA1 MAX14931DA
+Added Member To Class: ClassName=Power_driver_power Member=Component R8 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R9 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R10 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R11 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R12 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R13 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R14 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R15 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R16 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R17 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R18 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R19 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component VD2 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD3 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD4 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD5 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD6 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD7 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD8 PESD3V3S1UB,115

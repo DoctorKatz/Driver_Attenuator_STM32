@@ -1,0 +1,93 @@
+Removed Member From Class: ClassName=Power_driver_AMP Member=C1
+Removed Member From Class: ClassName=Power_driver_AMP Member=C5
+Removed Member From Class: ClassName=Power_driver_AMP Member=C6
+Removed Member From Class: ClassName=Power_driver_AMP Member=C8
+Removed Member From Class: ClassName=Power_driver_AMP Member=C9
+Removed Member From Class: ClassName=Power_driver_power Member=C11
+Removed Member From Class: ClassName=Power_driver_power Member=C13
+Removed Member From Class: ClassName=Power_driver_power Member=C15
+Removed Member From Class: ClassName=Power_driver_power Member=C16
+Removed Member From Class: ClassName=Power_driver_power Member=C17
+Removed Member From Class: ClassName=Power_driver_power Member=C18
+Removed Member From Class: ClassName=Power_driver_power Member=C19
+Removed Member From Class: ClassName=Power_driver_power Member=C21
+Removed Member From Class: ClassName=Power_driver_AMP Member=L2
+Removed Member From Class: ClassName=Power_driver_power Member=L5
+Removed Member From Class: ClassName=Power_driver_AMP Member=R4
+Removed Member From Class: ClassName=Power_driver_AMP Member=R5
+Removed Member From Class: ClassName=Power_driver_power Member=R23
+Removed Member From Class: ClassName=Power_driver_power Member=R29
+Removed Member From Class: ClassName=Power_driver_power Member=R31
+Removed Member From Class: ClassName=Power_driver_power Member=R35
+Removed Member From Class: ClassName=Power_driver_AMP Member=R37
+Removed Member From Class: ClassName=Power_driver_power Member=R37
+Removed Member From Class: ClassName=Power_driver_AMP Member=R39
+Removed Member From Class: ClassName=Power_driver_power Member=R39
+Removed Member From Class: ClassName=Power_driver_AMP Member=R40
+Removed Member From Class: ClassName=Power_driver_power Member=R40
+Removed Member From Class: ClassName=Power_driver_AMP Member=R41
+Removed Member From Class: ClassName=Power_driver_power Member=R41
+Removed Member From Class: ClassName=Power_driver_power Member=VD9
+Removed Member From Class: ClassName=Power_driver_power Member=VD10
+Removed Member From Class: ClassName=Power_driver_power Member=VD11
+Added Pin To Net: NetName=CLK_IN Pin=DA1-3
+Added Pin To Net: NetName=MISO_IN Pin=DA1-4
+Added Pin To Net: NetName=CS_IN Pin=DA1-5
+Added Pin To Net: NetName=MOSI_IN Pin=DA1-6
+Added Member To Class: ClassName=Power_driver_power Member=Component C2 22u 20V
+Added Member To Class: ClassName=Power_driver_power Member=Component C3 22u 20V
+Added Member To Class: ClassName=Power_driver_power Member=Component C4 1u 50V
+Added Member To Class: ClassName=Power_driver_power Member=Component C7 22u 20V
+Added Member To Class: ClassName=Power_driver_power Member=Component C8 22u 20V
+Added Member To Class: ClassName=Power_driver_power Member=Component C9 22u 20V
+Added Member To Class: ClassName=Power_driver_AMP Member=Component C15 0,1u 50V
+Added Member To Class: ClassName=Power_driver_AMP Member=Component C19 1u 50V
+Added Member To Class: ClassName=Power_driver_AMP Member=Component C20 0,1u 50V
+Added Member To Class: ClassName=Power_driver_AMP Member=Component C22 0,1u 50V
+Added Member To Class: ClassName=Power_driver_AMP Member=Component C23 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C24 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C26 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C27 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C28 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C29 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C30 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C31 0,1u 50V
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component C32 0,1u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C34 5 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C35 0,1u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C36 0,1u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C37 1u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C38 0,01u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C39 0,01u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C40 0,01u 50V
+Added Member To Class: ClassName=Power_driver_MCU Member=Component C41 0,1u 50V
+Added Member To Class: ClassName=Power_driver_power Member=Component DA1 MAX14931DA
+Added Member To Class: ClassName=Power_driver_AMP Member=Component DA3 NCS5652MUTWG
+Added Member To Class: ClassName=Power_driver_power Member=Component L2 220 2A
+Added Member To Class: ClassName=Power_driver_AMP Member=Component L6 220 2A
+Added Member To Class: ClassName=Power_driver_power Member=Component R4 0 5%
+Added Member To Class: ClassName=Power_driver_power Member=Component R6 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R7 470 5%
+Added Member To Class: ClassName=Power_driver_power Member=Component R8 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R9 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R10 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R11 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R12 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R13 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R14 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R15 3,32k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component R16 3,32k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R20 0 5%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R22 0 5%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R24 10k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R25 10k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R26 30,1k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R27 30,1k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R28 49,9 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R30 49,9 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R32 10k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R33 10k 1%
+Added Member To Class: ClassName=Power_driver_AMP Member=Component R34 10k 1%
+Added Member To Class: ClassName=Power_driver_power Member=Component VD2 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD3 PESD3V3S1UB,115
+Added Member To Class: ClassName=Power_driver_power Member=Component VD4 PESD3V3S1UB,115

@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Power_driver_MCU Member=R43
+Removed Member From Class: ClassName=Power_driver_DAC_Connectors Member=R44
+Added Component: Designator=SA1(Button_4pin_SMD_3.6x2.6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetDD4_3 Pin=SA1-1
+Added Pin To Net: NetName=NetDD4_3 Pin=SA1-1
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=SA1-2
+Added Member To Class: ClassName=Power_driver_DAC_Connectors Member=Component R42 27 5%
+Added Member To Class: ClassName=Power_driver_MCU Member=Component R46 100 5%
+Added Member To Class: ClassName=Power_driver_MCU Member=Component R49 10k 5%
+Added Member To Class: ClassName=Power_driver_MCU Member=Component SA1 KMT211NGHFLF
+Added Member To Class: ClassName=Power_driver_MCU Member=Component VD10 Red
+Added Member To Class: ClassName=Power_driver_MCU Member=Component VD11 Yellow

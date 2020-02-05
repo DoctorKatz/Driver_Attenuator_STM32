@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=VD11-2
+Removed Pin From Net: NetName=+5V Pin=VD12-2
+Removed Member From Class: ClassName=Power_driver_MCU Member=R52
+Removed Member From Class: ClassName=Power_driver_MCU Member=R53
+Removed Member From Class: ClassName=Power_driver_MCU Member=VD11
+Removed Member From Class: ClassName=Power_driver_MCU Member=VD12

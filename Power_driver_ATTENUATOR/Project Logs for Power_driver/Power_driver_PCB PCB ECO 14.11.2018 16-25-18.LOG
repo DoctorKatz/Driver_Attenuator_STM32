@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CLK_IN Pin=DA1-3
+Removed Pin From Net: NetName=CS_IN Pin=DA1-5
+Added Pin To Net: NetName=CS_IN Pin=DA1-3
+Added Pin To Net: NetName=CLK_IN Pin=DA1-5
+Added Member To Class: ClassName=Power_driver_MCU Member=Component R42 100 5%

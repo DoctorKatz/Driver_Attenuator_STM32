@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CS_IN Pin=R36-2
+Added Pin To Net: NetName=CS2 Pin=R36-2
+Added Pin To Net: NetName=CLK2 Pin=R37-2
+Added Pin To Net: NetName=MOSI2 Pin=R38-2

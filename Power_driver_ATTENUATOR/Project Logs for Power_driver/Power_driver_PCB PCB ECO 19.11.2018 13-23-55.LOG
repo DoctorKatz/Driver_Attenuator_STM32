@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=JTAG_TDO Pin=X3-5
+Removed Pin From Net: NetName=JTAG_TDI Pin=X3-6
+Added Pin To Net: NetName=JTAG_TDI Pin=X3-5
+Added Pin To Net: NetName=JTAG_TDO Pin=X3-6
