@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=SOFT_RESET Pin=XP1-A16
-Added Pin To Net: NetName=SOFT_RESET Pin=XP1-B16

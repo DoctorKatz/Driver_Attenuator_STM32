@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=VoutC Pin=C27-1
-Removed Pin From Net: NetName=VoutD Pin=C29-1
-Added Pin To Net: NetName=VoutD Pin=C27-1
-Added Pin To Net: NetName=VoutC Pin=C29-1

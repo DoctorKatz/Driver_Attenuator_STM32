@@ -1,8 +1,0 @@
-Change Component DesignItemId : Designator=X1 Old DesignItemId=KLS2-125-3.81-02P New DesignItemId=PT 1,5/ 2-3,5-H
-Change Component DesignItemId : Designator=X2 Old DesignItemId=KLS2-125-3.81-02P New DesignItemId=PT 1,5/ 2-3,5-H
-Change Component Footprint: Designator=X1 Old Footprint=KLS2-125-3.81-02P New Footprint=PT 1,5/ 2-3,5-H
-Change Component Footprint: Designator=X2 Old Footprint=KLS2-125-3.81-02P New Footprint=PT 1,5/ 2-3,5-H
-Change Component Comment : Designator=X1 Old Comment=KLS2-125-3.50-02P New Comment=PT 1,5/ 2-3,5-H
-Change Component Comment : Designator=X2 Old Comment=KLS2-125-3.50-02P New Comment=PT 1,5/ 2-3,5-H
-Change Component Description : Designator=X1 Old Description=KLS2-125-3.50 Terminal Block Connector. Strait New Description=PT 1,5/ 2-3,5-H Terminal Block Connector. Strait
-Change Component Description : Designator=X2 Old Description=KLS2-125-3.50 Terminal Block Connector. Strait New Description=PT 1,5/ 2-3,5-H Terminal Block Connector. Strait
